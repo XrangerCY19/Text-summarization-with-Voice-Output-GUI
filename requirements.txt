@@ -1,0 +1,7 @@
+numpy==1.18.1
+pandas==1.0.1
+networkx==2.4
+nltk==3.4.5
+regex==2020.1.8
+scikit-learn==0.22.1
+googletrans==2.4.0
