@@ -8,7 +8,7 @@ Currently uses English, Hindi, Malayalam translation.
 Usesm Natural Language Toolkit
 
 Uses cmdmp3 to play voice
-Install cmdmp3 usiong the following link
+Install cmdmp3 usiong the following link.
 http://www.mailsend-online.com/wp/cmdmp3new.zip
 
 To run:
