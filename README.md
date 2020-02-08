@@ -18,3 +18,4 @@ http://www.mailsend-online.com/wp/cmdmp3new.zip
 To run:
 python main.py
 
+Code modified from https://github.com/ArunaMokara/voice-based-text-summarization
