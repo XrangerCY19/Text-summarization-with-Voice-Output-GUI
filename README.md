@@ -1,5 +1,5 @@
 # Text-summarization-with-voice-output
-Text summarization with voice output
+Text summarization with voice output.
 Document based text summarization with voice based output.
 
 Uses google translator to convert text.
