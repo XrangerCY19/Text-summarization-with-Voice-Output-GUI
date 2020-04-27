@@ -5,7 +5,7 @@ Document based text summarization with voice based output.
 
 Uses google translator to convert text.
 
-Currently uses English, Hindi, Malayalam translation.
+Currently uses English translation.
 
 Uses Natural Language Toolkit
 
@@ -21,3 +21,4 @@ To run:
 python main.py
 
 Code modified from https://github.com/ArunaMokara/voice-based-text-summarization
+UI by: https://github.com/TheSoulReaperr
