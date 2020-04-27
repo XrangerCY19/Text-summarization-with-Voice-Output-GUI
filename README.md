@@ -21,4 +21,5 @@ To run:
 python main.py
 
 Code modified from https://github.com/ArunaMokara/voice-based-text-summarization
+
 UI by: https://github.com/TheSoulReaperr
